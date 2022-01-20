@@ -1,4 +1,4 @@
-<h1>Typescript Negociation</h1>
+<h1>Cronômetro para Tarefa em ToDo List</h1>
 <h2>O que é esse projeto?</h2>
 <p>Cronômetro para tarefa em lista de tarefas. Projeto desenvolvido durante curso de React com Typescript da Alura</p>
 
